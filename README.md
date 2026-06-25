@@ -23,3 +23,16 @@ The goal is to identify key factors affecting revenue and customer satisfaction.
 
 (Check SQL queries in repo)
 
+## Files
+- create_tables.sql : creating tables
+- revenue_analysis.sql : total revenue by product category
+- product_review_analysis.sql : avg review score of products
+- delivery_analysis.sql : state with delayed deliveries
+- delivery_review_analysis.sql : state wise avg review score
+
+## Additional detail
+- You can sort by changing DESC - descending or ASC - ascending for the results.
+- Import data from csv after creating tables.
+
+
+
