@@ -34,5 +34,9 @@ The goal is to identify key factors affecting revenue and customer satisfaction.
 - You can sort by changing DESC - descending or ASC - ascending for the results.
 - Import data from csv after creating tables.
 
+## Project Portfolio
 
+For a detailed project objective, dashboard screenshot, key insights, recommendation visit my notion portfolio
+
+**https://app.notion.com/p/E-Commerce-Data-Analysis-PostgreSQL-Power-BI-38a4d5ad923e80dfb891e9e10f5c3925?source=copy_link**
 
